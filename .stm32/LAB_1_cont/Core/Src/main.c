@@ -165,14 +165,6 @@ void ex6() {
 	setNumberOnClock(counter++);
 	HAL_Delay(1000);
 }
-void ex7() {
-	for (int i = 0; i < 12; i++) {
-		setNumberOnClock(i);
-	}
-	HAL_Delay(1000);
-	clearAllClock();
-	HAL_Delay(1000);
-}
 void realTimeClock(int hour, int min, int sec) {
 	static uint8_t init = 1;
 	static int h;
@@ -214,7 +206,7 @@ void realTimeClock(int hour, int min, int sec) {
 	HAL_Delay(1000);
 }
 void ex10() {
-	realTimeClock(11, 59, 50);
+	realTimeClock(1, 50, 0);
 }
 /* USER CODE END 0 */
 
@@ -254,7 +246,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  ex6();
+	  ex10();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
