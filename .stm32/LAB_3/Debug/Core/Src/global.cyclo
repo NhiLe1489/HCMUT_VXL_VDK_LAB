@@ -1,0 +1,11 @@
+../Core/Src/global.c:21:6:ledRed1_ON	1
+../Core/Src/global.c:27:6:ledGreen1_ON	1
+../Core/Src/global.c:33:6:ledYellow1_ON	1
+../Core/Src/global.c:39:6:ledRed2_ON	1
+../Core/Src/global.c:45:6:ledGreen2_ON	1
+../Core/Src/global.c:51:6:ledYellow2_ON	1
+../Core/Src/global.c:57:6:display7SEG	11
+../Core/Src/global.c:160:6:update7SEG	5
+../Core/Src/global.c:195:6:updateLedBuffer	1
+../Core/Src/global.c:202:6:setCounter	13
+../Core/Src/global.c:289:6:checkLightsLogic	2

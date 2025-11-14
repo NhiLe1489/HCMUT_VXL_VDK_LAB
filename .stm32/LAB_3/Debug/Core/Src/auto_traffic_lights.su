@@ -1,0 +1,7 @@
+../Core/Src/auto_traffic_lights.c:10:6:ledRed1_ON	8	static
+../Core/Src/auto_traffic_lights.c:16:6:ledGreen1_ON	8	static
+../Core/Src/auto_traffic_lights.c:22:6:ledYellow1_ON	8	static
+../Core/Src/auto_traffic_lights.c:28:6:ledRed2_ON	8	static
+../Core/Src/auto_traffic_lights.c:34:6:ledGreen2_ON	8	static
+../Core/Src/auto_traffic_lights.c:40:6:ledYellow2_ON	8	static
+../Core/Src/auto_traffic_lights.c:46:6:autoRun	8	static
