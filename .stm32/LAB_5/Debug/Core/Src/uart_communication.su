@@ -1,0 +1,2 @@
+../Core/Src/uart_communication.c:22:6:uart_send_string	16	static
+../Core/Src/uart_communication.c:26:6:uart_communication_fsm	8	static

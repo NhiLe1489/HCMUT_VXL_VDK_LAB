@@ -1,0 +1,7 @@
+../Core/Src/fsm_manual.c:11:6:handle_apply_initial	2
+../Core/Src/fsm_manual.c:24:5:is_valid_combo	1
+../Core/Src/fsm_manual.c:27:6:start_edit_session	1
+../Core/Src/fsm_manual.c:34:6:changeMode	1
+../Core/Src/fsm_manual.c:41:6:end_edit_session_and_maybe_commit	3
+../Core/Src/fsm_manual.c:51:6:displayDuration	1
+../Core/Src/fsm_manual.c:58:6:fsm_manual	17
